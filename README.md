@@ -18,7 +18,7 @@
 | European Truck Parts Site | Europe | English | WordPress | 🟢 Live |
 | Titanium Performance Fastener Site | Europe & North America | English | WordPress + Rank Math + Astra | 🟢 Live |
 | Blister Packaging Site | Central Asia & CIS | Russian | WordPress | 🟢 Live |
-| Multi-Site Content Ops Pipeline | Internal use | EN / RU | Python + WP REST API + Systemd + Nginx | 🟢 Running |
+| [Multi-Site Content Ops Pipeline](https://github.com/Ethan-Lwj/wp-seo-geo-toolkit) | Internal use | EN / RU | Python + WP REST API + Systemd + Nginx | 🟢 Running |
 
 ---
 
